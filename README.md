@@ -3,5 +3,6 @@ Database: MongoDB
 Express.js & Node.js
 Frontend: React
 
-![image](https://github.com/121910318049/moneytracker/assets/74094986/aae8bfee-d7df-445b-9520-b32c26483223)
+![image](https://github.com/121910318049/moneytracker/assets/74094986/1dc63513-87ec-46ff-8ea4-24b1ccf546a9)
+
 
